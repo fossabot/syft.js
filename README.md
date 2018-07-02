@@ -1,4 +1,6 @@
 # syft.js
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthew-mcateer%2Fsyft.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthew-mcateer%2Fsyft.js?ref=badge_shield)
+
 
 ## Resources
 
@@ -29,3 +31,7 @@ let t = await syft.FloatTensor.create([
 
 console.log(await t.toString())
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmatthew-mcateer%2Fsyft.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmatthew-mcateer%2Fsyft.js?ref=badge_large)
